@@ -4,26 +4,6 @@
 
 ---
 
-## 🚀 **About Me**
-
-```javascript
-const hetav = {
-    name: "Hetav",
-    role: "Full Stack Developer",
-    location: "India",
-    code: ["JavaScript", "Python", "C++"],
-    technologies: {
-        frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-        tools: ["Git", "VS Code", "Postman", "Vercel"]
-    },
-    currentlyLearning: "Advanced React Patterns & System Design",
-    funFact: "I turn coffee into code ☕️"
-};
-```
-
----
-
 ## 🛠️ **Tech Stack**
 
 <div align="center">
@@ -67,14 +47,6 @@ const hetav = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hetav2211&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hetav2211&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
