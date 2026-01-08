@@ -38,19 +38,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hetav2211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetav2211&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hetav2211&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🎯 **What I'm Up To**
 
 ```typescript
